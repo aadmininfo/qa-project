@@ -24,7 +24,7 @@ const AboutSection = () => {
               <h3 className="text-2xl font-bold mb-6 text-primary">Меня зовут Дмитрий</h3>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  Опытный QA-инженер с 5+ лет практики в крупных IT-компаниях. 
+                  Опытный QA-инженер с 3+ лет практики в крупных IT-компаниях. 
                   Прошёл путь от джуниора до тимлида QA команды.
                 </p>
                 <p>
