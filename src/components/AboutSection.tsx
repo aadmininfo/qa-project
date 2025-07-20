@@ -21,7 +21,7 @@ const AboutSection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <Card className="p-8 shadow-card gradient-card">
-              <h3 className="text-2xl font-bold mb-6 text-primary">Меня зовут Лев</h3>
+              <h3 className="text-2xl font-bold mb-6 text-primary">Меня зовут Дмитрий</h3>
               <div className="space-y-4 text-muted-foreground">
                 <p>
                   Опытный QA-инженер с 5+ лет практики в крупных IT-компаниях. 
